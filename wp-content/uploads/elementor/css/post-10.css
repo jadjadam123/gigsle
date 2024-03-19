@@ -441,7 +441,12 @@
     display: flex;
 }
 .socialdown .elementor-widget-container img{
-    width:  80px;
+    width:  70px !important;
+    max-width: 70px !important;
+}
+.socialdown .elementor-element.elementor-element-56ddcd3.elementor-widget__width-initial.elementor-widget.elementor-widget-image {
+    width: 90px;
+    max-width: 90px;
 }
 .elementor-10 .elementor-element.elementor-element-0980624 .elementor-heading-title {
     color: #288747;
